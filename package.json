@@ -1,0 +1,33 @@
+{
+  "name": "encurtadorurl",
+  "version": "1.0.0",
+  "description": "Projeto de Encurtador de URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/britolmbs/EncurtadorURL.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJs",
+    "TypeScript"
+  ],
+  "author": "Lucas Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/britolmbs/EncurtadorURL/issues"
+  },
+  "homepage": "https://github.com/britolmbs/EncurtadorURL#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
+    "cors": "^2.8.5",
+    "eslint": "^8.19.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18",
+    "typescript": "^4.7.4"
+  }
+}
