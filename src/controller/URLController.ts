@@ -1,4 +1,4 @@
-import { config } from 'config/Constants';
+import { config } from '../config/Constants';
 import { Request, response, Response } from 'express';
 import shortId from 'shortid';
 

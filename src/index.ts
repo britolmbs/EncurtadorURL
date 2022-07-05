@@ -1,4 +1,4 @@
-import { URLController } from 'controller/URLController';
+import { URLController } from './controller/URLController';
 import express from 'express';
 
 const api = express()
